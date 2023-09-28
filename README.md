@@ -1,6 +1,5 @@
 # Case-study-Debt-Crisis-of-SriLanka
- This case study discusses how debt has affected the  economic crisis in the island. 
- Conclusions
+Conclusions, 
 The purpose of this case study is to examine the factors which drove Sri Lanka into a debt 
 crisis. As per the results from the regression analysis where the relationship between the 
 national debt and the budget deficit is investigated, the study finds an inverse relationship 
